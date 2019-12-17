@@ -11,6 +11,7 @@ import io
 import oauth2client
 from oauth2client import client
 from oauth2client import tools
+from oauth2client import file
 
 from logbook import Logger, FileHandler, StreamHandler
 from progress_bar import InitBar
